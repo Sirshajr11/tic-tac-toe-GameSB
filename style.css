@@ -116,3 +116,13 @@ nav ul{
         grid-template-columns: repeat(3, 20vw);
     }
 }
+footer{
+    margin-left: 20%;
+    padding-top: 5%;
+    font-size: 1.5rem;
+    font-style: italic;
+    color: blue;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
